@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "Correções de layout offline e melhorias de estabilidade",
+  "pub_date": "2026-01-13T22:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "COLE_A_ASSINATURA_AQUI",
+      "url": "https://github.com/misistemaseinformatica-jpg/misistemas/releases/download/v0.1.1/misistemas_0.1.1_x64-setup.exe"
+    }
+  }
+}
